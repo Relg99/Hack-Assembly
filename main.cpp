@@ -1,3 +1,8 @@
+/*
+ * Coded by Relg99.
+ * Date 28/06/22
+ */
+
 #include <iostream>
 #include <fstream>
 
